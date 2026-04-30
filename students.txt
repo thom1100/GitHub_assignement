@@ -18,7 +18,7 @@ Fortier Lou-Anne https://github.com/lfortier-collab/ml-poc-project
 Guesnier-Maleterre Louise https://github.com/lguesnier-cell/ml-poc-project
 Fortier Lou-Anne
 JaskulkÃ© Flore
-Lallau Ilyes
+Lallau Ilyes - https://github.com/planescaper2006/ml-poc-project
 Landry Madeleine - https://github.com/mlandry-wq/ml-poc-project
 Lhoest Hugo - https://github.com/hlho-albert/ml-poc-project
 Libourel Justine - https://github.com/justinelbr6/ml-poc-project
