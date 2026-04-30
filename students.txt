@@ -24,7 +24,7 @@ Lhoest Hugo - https://github.com/hlho-albert/ml-poc-project
 Libourel Justine - https://github.com/justinelbr6/ml-poc-project
 Lounis Amine - https://github.com/AmineLnis/ml-poc-project
 Marie de Ficquelmont Alexandre
-Marlier Robin
+Marlier Robin - https://github.com/Robz-lab/ml-poc-project
 Pereira Mario
 Reibel Baptiste
 Rousseau Thomas https://github.com/thomasssrss/ml-poc-project/tree/main
