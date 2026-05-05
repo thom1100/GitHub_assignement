@@ -6,7 +6,7 @@ Attia Noa - https://github.com/nattia-ai/ml-poc-project
 Benaim Lior https://github.com/liorb15/ml-poc-project/tree/main
 Capone LÃ©o https://github.com/Lcapone7/ml-poc-project
 Cardona Monget Milo - https://github.com/plutoskio/ml-poc-project/tree/main
-Carriou Manech
+Carriou Manech - https://github.com/manechcarriou-lab/ml-poc-project/tree/main
 Debard Hugo - https://github.com/gglm-web/ml-poc-project
 Delattre Alexandre - https://github.com/adelattre-cmd/ml-poc-project.git
 de l'Epine Victor - https://github.com/v2lepine/ml-poc-project
